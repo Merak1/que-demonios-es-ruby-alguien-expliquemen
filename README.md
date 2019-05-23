@@ -1,24 +1,4 @@
-# README
+# RUBY ON RAILS BABBY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![alt text](https://pm1.narvii.com/6609/eecfe1d95a30709274b00b57c9b3f6782e4dc33b_hq.jpg)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
